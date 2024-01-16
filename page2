@@ -1,0 +1,31 @@
+<html>
+<style>
+	body{
+	background-image: url(https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-repeat: repeat;
+    color:white;
+    font-size:32px;
+    pont-family: arial, helvetica, sans-serif
+    }
+   </style>
+
+<h1 style="background-color:SlateBlue;">Hello World⋆⁺₊⋆ ☀︎</h1>
+
+<p style="background-color:Gray;">
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+</p>
+
+<p style="background-color:MediumSeaGreen;">
+20 20 20 20 VISIONNNNN 
+</p>
+
+<img.src="https://www.purina.co.uk/sites/default/files/2023-03/Hero%20Pedigree%20Cats.jpg
+
+<table> <tr> <th> AAA </th> </tr>
+<tr> <th> AaaAAA </th> </tr>
+<tr> <th> AAOOAA </th> </tr>
+<tr> AAaaa. </tr> </table>
+
+</body>
+</html>
